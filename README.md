@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Laravel Datatables 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This is the source code of Laravel datatables integration video tutorial available on youtube. This tutorial uses Laravel, Yajra laravel-datatables plugin, bootstrap 5, Jquery, datatables, html5 and css.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [View complete tutorial on youtube](https://www.youtube.com/watch?v=YgYpxUwJoPY).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
