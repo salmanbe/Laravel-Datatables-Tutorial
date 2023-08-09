@@ -14,7 +14,7 @@ This is the source code of Laravel datatables integration video tutorial availab
 - [View complete video tutorial on youtube](https://www.youtube.com/watch?v=YgYpxUwJoPY).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
 - [Visit author's website](https://www.salman.be).
-- [Laravel Datatables plugin credit](https://github.com/yajra).
+- [Laravel datatables plugin credit](https://github.com/yajra).
 
 ### Tutorial Technologies
 
