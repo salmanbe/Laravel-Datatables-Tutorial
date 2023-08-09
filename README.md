@@ -7,19 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Laravel Datatables 
+## Laravel Datatables Turorial
 
 This is the source code of Laravel datatables integration video tutorial available on youtube. This tutorial uses Laravel, Yajra laravel-datatables plugin, bootstrap 5, Jquery, datatables, html5 and css.
 
-- [View complete tutorial on youtube](https://www.youtube.com/watch?v=YgYpxUwJoPY).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- [View complete video tutorial on youtube](https://www.youtube.com/watch?v=YgYpxUwJoPY).
+- [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
+- [Visit author's website](https://www.salman.be).
+- [Laravel Datatables plugin credit](https://github.com/yajra).
 
 ## Learning Laravel
 
