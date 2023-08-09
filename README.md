@@ -19,11 +19,11 @@ This is the source code of Laravel datatables integration video tutorial availab
 ### Tutorial Technologies
 
 - Laravel
-- **Bootstrap 5**
-- **MySql**
-- **HTML 5**
-- **CSS**
-- **JQuery**
+- Bootstrap 5
+- MySql
+- HTML 5
+- CSS
+- JQuery
 
 ## License
 
